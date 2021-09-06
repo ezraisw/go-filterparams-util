@@ -106,7 +106,7 @@ func CleanFilter(filter interface{}, specs ...CleanSpec) interface{} {
 
 	newFilter := c.clean(filter)
 
-	if newFilter == true {
+	if newFilter == true || newFilter == false {
 		return nil
 	}
 
