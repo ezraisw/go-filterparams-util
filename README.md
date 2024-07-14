@@ -20,7 +20,7 @@ Defining your own cleaning specification.
 package main
 
 import (
-    "github.com/pwnedgod/go-filterparams-util"
+    "github.com/ezraisw/go-filterparams-util"
 )
 
 func main() {
@@ -43,7 +43,7 @@ Or, you could use a struct for the specification. Do note that this **does not**
 package main
 
 import (
-    "github.com/pwnedgod/go-filterparams-util"
+    "github.com/ezraisw/go-filterparams-util"
 )
 
 type User struct {

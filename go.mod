@@ -1,4 +1,4 @@
-module github.com/pwnedgod/go-filterparams-util
+module github.com/ezraisw/go-filterparams-util
 
 go 1.14
 
