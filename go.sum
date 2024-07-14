@@ -1,5 +1,5 @@
-github.com/cbrand/go-filterparams v0.0.0-20210221104631-637d631396af h1:+bPerL2/WJgrW2vljqmbjWXPf9D3gHFx9nP+5j7tG+E=
-github.com/cbrand/go-filterparams v0.0.0-20210221104631-637d631396af/go.mod h1:03Cf+wMC85nPsXzSj53ywRDtwfO/SThMGR6i6wBBAms=
+github.com/cbrand/go-filterparams v0.0.0-20230926084908-322c1c4c6f5d h1:ZVmzfsDnm3T4d2zjhcPaAuKL5GXga+SCw8o72txHq3A=
+github.com/cbrand/go-filterparams v0.0.0-20230926084908-322c1c4c6f5d/go.mod h1:03Cf+wMC85nPsXzSj53ywRDtwfO/SThMGR6i6wBBAms=
 github.com/kr/pretty v0.2.1 h1:Fmg33tUaq4/8ym9TJN1x7sLJnHVwhP33CNkpYV/7rwI=
 github.com/kr/pretty v0.2.1/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfnI=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
